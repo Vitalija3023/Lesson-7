@@ -28,7 +28,7 @@ body{
 
 .link-1{
    
-   max-width: 500p;
+   max-width: 500px;
    background: url('../img/fe_arrow-right.svg')right  no-repeat;
    padding: 0 40px 0 0;
    margin: 0 60px 0 0;
@@ -39,7 +39,7 @@ body{
 
 .link-3{
    
-   max-width: 500p;
+   max-width: 500px;
    background: url('../img/fe_arrow-right.svg')right  no-repeat;
    padding: 0 40px 0 0;
    margin: 0 60px 0 0;
@@ -49,7 +49,7 @@ body{
 }
 
 .link-2{
-   max-width: 500p;
+   max-width: 500px;
    background: url('../img/fe_arrow-left.svg')left  no-repeat;
    padding: 0 40px 0 40px;
    margin: 0 80px 0 0;
@@ -111,7 +111,7 @@ h1{
 
 .link{
 
-   max-width: 500p;
+   max-width: 500px;
    background: url('../img/Frame\ 5.svg')right  no-repeat;
    padding: 0 40px 0 0;
    margin: 0 60px 0 0;
